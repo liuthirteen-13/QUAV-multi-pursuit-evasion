@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/liuthirteen-13/QUAV-multi-pursuit-evasion/main/Simulation%20images%20of%20drone%20pursuit.png" width="80%">
+</p>
+
+<h1 align="center">QUAV Multi-UAV Pursuit–Evasion Simulation</h1>
+
 # QUAV Multi-UAV Pursuit–Evasion Simulation
 
 A multi-UAV pursuit–evasion simulation framework based on attitude dynamics, sliding-mode control, and reinforcement learning (I-DAC for pursuers & min–max evader strategy).  
